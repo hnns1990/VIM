@@ -1,4 +1,4 @@
-"====================================
+"=============================================
 "    FileName: .vimrc
 "    Author:   niushuai
 "    Email:    niushuai@staff.sina.com.cn
@@ -86,5 +86,4 @@ let g:Powline_symbols='fancy'
 Bundle 'taglist.vim'
 let Tlist_Ctags_Cmd='/usr/local/bin/ctags'
 map <F3> :Tlist<CR>
-
 "  =============================================
