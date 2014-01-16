@@ -10,6 +10,3 @@
 3. 过一下VIM文档
 4. 装一些插件
 5. 自己DIY工作环境的插件（比如python FTP插件）
-
-
-hahhahah
